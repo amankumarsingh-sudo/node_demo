@@ -1,7 +1,7 @@
 {
-  "name": "api_book",
+  "name": "api_payment",
   "version": "1.0.0",
-  "description": "books ",
+  "description": "payment api",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/common.js test/signup-test.js test/signin-test.js"
